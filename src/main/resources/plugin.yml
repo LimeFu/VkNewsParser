@@ -1,0 +1,7 @@
+name: VkNews
+version: '${project.version}'
+main: dev.limefu.ua.vknews.VkNews
+
+commands:
+  news:
+

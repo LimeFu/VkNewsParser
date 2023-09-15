@@ -1,0 +1,6 @@
+scheduler:
+  delay: 1800
+database:
+  dbname: vknews
+  username: root
+  password: ""
